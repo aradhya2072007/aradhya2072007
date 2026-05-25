@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/30/4e/be/304ebec2f671bbcb38258dc7889370bb.gif" width="100%" alt="Cyberpunk AI Banner">
 
-<h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Aradhya+👋;AI+Workflow+Builder;Full+Stack+Developer;Automation+Enthusiast" alt="Typing Animation" /></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Workflow+Builder+Full+Stack+Developer+Automation+Enthusiast+Building+Real-Time+Dashboards" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://linkedin.com/in/aradhya-tiwari-774514382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
