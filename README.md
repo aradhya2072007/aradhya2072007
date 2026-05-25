@@ -153,12 +153,12 @@ Interests:
 
 <img src="https://github-readme-stats.vercel.app/api?username=aradhya2072007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=aradhya2072007&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+<!-- <img src="https://streak-stats.demolab.com?user=aradhya2072007&theme=tokyonight&hide_border=true&background=0D1117" width="48%" /> -->
 
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhya2072007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhya2072007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" /> -->
 
 </div>
 
