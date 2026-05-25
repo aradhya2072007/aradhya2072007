@@ -153,22 +153,12 @@ Interests:
 
 <img src="https://github-readme-stats.vercel.app/api?username=aradhya2072007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aradhya2072007&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+<img src="https://streak-stats.demolab.com?user=aradhya2072007&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 
 <br/>
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhya2072007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aradhya2072007&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
 
 </div>
 
@@ -189,16 +179,6 @@ Interests:
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=aradhya2072007&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aradhya2072007/aradhya2072007/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -232,19 +212,6 @@ Interests:
 <a href="https://github.com/aradhya2072007">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# ⚡ Fun Zone
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l0dHV2aHBvdWZ3bXd5bGg1b3Fsdm5hMTR3d2J1M3A5MWU4eTh2bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="350"/>
-
-### *Consistency beats motivation.*  
-### *Build daily. Improve daily.*
 
 </div>
 
